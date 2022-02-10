@@ -134,3 +134,19 @@ section#assessment p#second{
 section#assessment img{
     margin-left: -30%;
 }
+
+
+section#materials{
+    display: flex;
+    justify-content: space-evenly;
+}
+section#materials p#first{
+    font-weight: 600;
+    font-size: 3vw;
+}
+section#materials p#second{
+    margin-top: 10%;
+    font-style: oblique;
+    font-size: 1.5vw;
+}
+
