@@ -3,17 +3,20 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+
 body{
     margin: 0% 10%;
     background-color: #f2efe3;
 }
+
+
 header{
     display: flex;
     justify-content: space-between;
     padding: 2% 0%;
     margin-right: -10%;
     border-bottom: 2px solid black;
-
 }
 header .logo{
     display: flex;
@@ -41,4 +44,27 @@ header ul li{
     margin: 2%;
     font-size: 1.2vw;
     color:black;
+}
+
+
+main{
+    margin-top: 5%;
+    margin-left: -20%;
+    margin-right: -20%;
+}
+
+
+section#welcome{
+    display: flex;
+    justify-content: space-evenly;
+}
+section#welcome p#first{
+    font-weight: 900;
+    font-size: 3vw;
+}
+section#welcome p#second{
+    margin-top: 10%;
+    font-style: oblique;
+    font-size: 1.5vw;
+
 }
