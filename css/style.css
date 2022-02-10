@@ -166,3 +166,18 @@ section#doctors p#second{
 section#doctors img{
     margin-left: -30%;
 }
+
+
+section#help{
+    display: flex;
+    justify-content: space-evenly;
+}
+section#help p#first{
+    font-weight: 600;
+    font-size: 3vw;
+}
+section#help p#second{
+    margin-top: 10%;
+    font-style: oblique;
+    font-size: 1.5vw;
+}
