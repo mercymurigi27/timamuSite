@@ -181,3 +181,18 @@ section#help p#second{
     font-style: oblique;
     font-size: 1.5vw;
 }
+
+section#end{
+    background-image: linear-gradient(90deg, black, brown);
+    color: white;
+    height: 14vw;
+    padding: 4% 0%;
+}
+section#end img{
+    width: 8vw;
+    float: left;
+    margin-left: 35%;
+}
+section#end p{
+    font-size: 3vw;
+}
