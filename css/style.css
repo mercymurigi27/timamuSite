@@ -150,3 +150,19 @@ section#materials p#second{
     font-size: 1.5vw;
 }
 
+section#doctors{
+    display: flex;
+    justify-content: space-evenly;
+}
+section#doctors p#first{
+    font-weight: 600;
+    font-size: 3vw;
+}
+section#doctors p#second{
+    margin-top: 10%;
+    font-style: oblique;
+    font-size: 1.5vw;
+}
+section#doctors img{
+    margin-left: -30%;
+}
