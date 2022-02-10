@@ -49,8 +49,8 @@ header ul li{
 
 main{
     margin-top: 5%;
-    margin-left: -20%;
-    margin-right: -20%;
+    margin-left: -10%;
+    margin-right: -10%;
 }
 section{
     margin: 2%;
@@ -76,7 +76,7 @@ section#mission{
     background-image: url(/images/pexels-alexander-suhorucov-6457564.jpg);
     color: white;
     text-align: center;
-    padding: 5%;
+    padding: 5% 0%;
 }
 section#mission p#title {
     text-decoration: underline;
