@@ -55,6 +55,20 @@ main{
 section{
     margin: 2%;
 }
+section  button.left{
+    margin-top: 10%;
+    margin-left: 30%;
+    padding: 1% 3%;
+    font-size: 1vw;
+    color: brown;
+}
+section  button.right{
+    margin-top: 20%;
+    margin-left: 40%;
+    padding: 2% 5%;
+    font-size: 1vw;
+    color: brown;
+}
 
 
 section#welcome{
@@ -102,10 +116,21 @@ section#community p#second{
     font-style: oblique;
     font-size: 1.5vw;
 }
-section#community button{
+
+
+section#assessment{
+    display: flex;
+    justify-content: space-evenly;
+}
+section#assessment p#first{
+    font-weight: 600;
+    font-size: 3vw;
+}
+section#assessment p#second{
     margin-top: 10%;
-    margin-left: 30%;
-    padding: 1% 3%;
-    font-size: 1vw;
-    color: brown;
+    font-style: oblique;
+    font-size: 1.5vw;
+}
+section#assessment img{
+    margin-left: -30%;
 }
