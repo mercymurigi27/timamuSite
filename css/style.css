@@ -52,6 +52,9 @@ main{
     margin-left: -20%;
     margin-right: -20%;
 }
+section{
+    margin: 2%;
+}
 
 
 section#welcome{
@@ -66,5 +69,21 @@ section#welcome p#second{
     margin-top: 10%;
     font-style: oblique;
     font-size: 1.5vw;
+}
 
+
+section#mission{
+    background-image: url(/images/pexels-alexander-suhorucov-6457564.jpg);
+    color: white;
+    text-align: center;
+    padding: 5%;
+}
+section#mission p#title {
+    text-decoration: underline;
+    font-size: 2.7vw;
+    font-weight: 900;
+    margin-bottom: 2%;
+}
+section#mission p#text{
+    font-size: 2vw;
 }
