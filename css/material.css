@@ -1,0 +1,93 @@
+p{
+    font-style: oblique;
+    font-size: 1.5vw;
+    margin-bottom: 3%;
+    }
+span{
+    margin-left: 40%;
+    font-size: 1.5vw;
+}
+   section img{
+        height: 200px;
+        width: auto;}
+    
+    
+       .div-A,.div-B::after {content: "";
+        clear: both;
+        display: table;
+           /*
+            display: flex;
+        flex-direction: row;
+        
+        margin-left: 50px;
+        margin-right: 50px;
+        margin-top: 20px;*/
+    
+    
+        }
+    
+        .img1{
+            margin-left: 10px;
+        }
+       
+        
+        .subscribe {
+            background-image: linear-gradient(to right, rgb(44, 44, 77), rgb(245, 230, 245));
+            display: flex;
+            justify-content: space-between;
+            padding: 3% 5% 3% 5%;
+        }
+        .subscribe p{
+            text-align: left;
+              color: #fff;
+            font-size: 1.5vw;
+            font-weight: bolder;
+        }
+        .subscribe form{
+            display: flex;
+    justify-content: flex-end;
+    width: 60%;
+        }
+        .subscribe input{
+            width: 50%;
+    font-size: 1vw;
+    padding:2.8% 6% 2.8% 6% ;
+    border-radius: 0.3vw 0 0 0.3vw;
+    border: none;
+        }
+        .subscribe button{
+            width: 40%;
+    background-color: brown;
+    color: #fff;
+    font-size: 1vw;
+    border-radius: 0 0.3vw 0.3vw 0;
+    border: none;
+        }
+        .img1,.img2,.img3,.img4,.img5,.img6,.img7,.img8{
+            float: left;
+            width: 33.33%;
+            padding: 5px;
+            margin-left: 200px;
+        }
+        .font{
+            font-weight: bolder;
+            margin-bottom: 30px;
+            margin-top: 30px;
+            color: black;
+        }
+        .btn input{
+         width: 350px;
+         height: 45px;
+         margin-left: 200px;
+        }
+        .sub{
+            width: auto;
+            height: auto;
+            font-weight: 700;
+        }
+
+#bannerTitle{
+    font-weight: 900;
+    font-size: 3vw;
+    margin-bottom: 3%;
+}
