@@ -1,0 +1,49 @@
+.test {
+    text-align: center;
+    border: 1px solid red;
+    margin-left: 550px;
+    margin-right: 550px;
+    background-color: white;
+}
+form{
+    text-align: left ;
+    width: 50%;
+    margin-left: 25%;
+    font-size: 1.6vw;
+    background-color: brown;
+    border-radius: 4%;
+    padding: 2% 5% 5% 2%;
+}
+@media screen {}
+
+.mental {
+    display: flex;
+}
+
+.health {
+    min-width: 150px;
+    min-height: 30px;
+    margin: 10px;
+}
+.take{
+    font-weight: 900;
+    font-size: 3vw;
+    margin-bottom: 3%;
+}
+.when{
+    font-style: oblique;
+    font-size: 1.5vw;
+    margin-bottom: 3%;
+}
+/* button {
+    height: 30px;
+    width: 200px;
+    border: none;
+    background: #808080;
+} */
+
+
+/* .footer {
+    display: flex;
+    align-items: flex-end;
+} */
